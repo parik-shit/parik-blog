@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Being a master to shivam and jerx",
+      "body": "lorem ipsum...",
+      "author": "parik",
+      "id": 1
+    },
+    {
+      "title": "How to sell pipes",
+      "body": "lorem ipsum...",
+      "author": "shivam",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "jerx",
+      "id": 3
+    }
+  ]
+}
